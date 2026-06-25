@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi 👋, I'm Virat Pandey
 
-<!--
-**ViratPandey-del/ViratPandey-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Full Stack Developer (MERN Stack)
+
+☕ Learning Java + DSA
+
+🥋 Taekwondo Athlete
+
+---
+
+## 🌱 Currently Learning
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- React
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 🎵 Spotify UI Clone
+- 🎮 Simon Says Game
+- ✅ To-Do App
+- ⌚ Watch Counter
+- 🌈 RGB Color Game
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/ViratPandey-del
+
+LinkedIn:
+www.linkedin.com/in/virat-pandey-27091a326
+
+
+Email:
+viratpandey08@gmail.com
